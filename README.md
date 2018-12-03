@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 13
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Trevor Kling**
 
 ## Specification
 
@@ -12,9 +12,7 @@ In the `info` repository find the template directory for LaTeX. Copy the entire 
   
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+As I already use $\LaTeX$ quite frequently, most parts of this assignment were familiar territory.  Observing the effect of a different basic package than my usual setup was quite interesing, however.
 
 ## Honor Pledge
 
@@ -25,5 +23,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling**
 
